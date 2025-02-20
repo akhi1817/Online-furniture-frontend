@@ -43,7 +43,7 @@ const Login = () => {
   return (
     <div className="container-fluid" style={{paddingTop:'90px'}}>
       <div className="row">
-        <div className="col-md-10 d-flex">
+        <div className="col-md-12 d-flex flex-column flex-md-row p-5">
           <div className="col-md-6">
             <img src="assets/chair.png" alt="Chair" className="img-fluid w-75 h-75" />
           </div>
